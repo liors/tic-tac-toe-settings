@@ -1,3 +1,21 @@
 
 node_modules/*
 .DS_Store
+
+.idea/modules.xml
+
+.idea/jsLibraryMappings.xml
+
+.idea/encodings.xml
+
+.idea/.name
+
+.idea/libraries/tic_tac_toe_settings_github_node_modules.xml
+
+.idea/misc.xml
+
+.idea/tic-tac-toe-settings-github.iml
+
+.idea/vcs.xml
+
+.idea/workspace.xml
